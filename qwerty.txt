@@ -1,0 +1,7 @@
+[caps]>[escape]
+[home]>[rwin]
+[end]>[lalt]
+[delete]>[bspace]
+[enter]>[space]
+[rwin]>[home]
+[rshift]>[enter]
