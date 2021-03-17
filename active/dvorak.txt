@@ -20,7 +20,6 @@
 [R]>[Y]
 [L]>[;]
 [delete]>[bspace]
-[enter]>[space]
 [D]>[H]
 [H]>[N]
 [T]>[E]
