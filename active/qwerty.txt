@@ -1,6 +1,6 @@
 [caps]>[escape]
+[kp-caps]>[kp-escape]
 [home]>[rwin]
 [end]>[lalt]
 [delete]>[bspace]
 [rwin]>[home]
-[rshift]>[enter]
