@@ -3,4 +3,6 @@
 [home]>[rwin]
 [end]>[lalt]
 [delete]>[bspace]
+[rctrl]>[kpshift]
+[kp-rctrl]>[kpshift]
 [rwin]>[home]

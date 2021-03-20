@@ -32,3 +32,5 @@
 [W]>[,]
 [V]>[.]
 [Z]>[/]
+[rctrl]>[kpshift]
+[kp-rctrl]>[kpshift]
