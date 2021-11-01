@@ -1,5 +1,5 @@
 # advantage2
-Backup of advantage2
+Kinesis advantage 2 config
 
 # Install
 - `program+shift+esc` to enter power user mode
