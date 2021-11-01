@@ -2,7 +2,7 @@
 [kp-caps]>[kp-escape]
 [home]>[rwin]
 [end]>[lalt]
-[delete]>[bspace]
+[delete]>[lshift]
 [rctrl]>[kpshift]
 [kp-rctrl]>[kpshift]
 [rwin]>[home]
